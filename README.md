@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-github-readme-stats.vercel.app/api?username={jinwoo0427}&show_icons=true&theme=dark
+[![streak](https://github-readme-streak-stats.herokuapp.com/?user=jinwoo0427&theme=calm)](https://github.com/jinwoo0427)
+
+[![myidmm64's github stats](https://github-readme-stats.vercel.app/api?username=jinwoo0427&show_icons=true&theme=dracula)](https://github.com/jinwoo0427)
