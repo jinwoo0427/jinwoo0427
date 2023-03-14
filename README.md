@@ -1,4 +1,4 @@
-### Hi there 👋
+👋  깨지고 부서지는 개발자 유진우입니다. ☺️
 
 <!--
 **jinwoo0427/jinwoo0427** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
