@@ -1,6 +1,11 @@
 
 <h2 dir="auto"><a id="user-content--👋  깨지고 부서지는 개발자 유진우입니다. ☺️" class="anchor" aria-hidden="true" href="#-👋깨지고 부서지는 개발자 유진우입니다. ☺️-️"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👍</g-emoji> &nbsp;깨지고 부서지는 개발자 유진우입니다. <g-emoji class="g-emoji" alias="relaxed" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/263a.png">☺️</g-emoji></h2>
 
+<p dir="auto"><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">⚙️</g-emoji> &nbsp;<strong>깨지고 부서져도 경험이 쌓이는 것</strong>에 관심이 많습니다.<br>
+<g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">⚙️</g-emoji> &nbsp;새로운 환경에  <strong>빠른 적응과</strong>, <strong>실패를 </strong>무서워하지 않습니다.<br>
+<g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">⚙️</g-emoji> &nbsp;기술을 꾸준히 공부하고 <strong>지식을 공유</strong>하며 <strong>함께 성장</strong>하는 삶을 지향합니다.<br>
+<g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">⚙️</g-emoji> &nbsp;저에 대해 궁금하시다면 <a href="http://ggm.gondr.net/user/profile/42#-%F0%9F%91%8B%EA%B9%A8%EC%A7%80%EA%B3%A0%20%EB%B6%80%EC%84%9C%EC%A7%80%EB%8A%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EC%9C%A0%EC%A7%84%EC%9A%B0%EC%9E%85%EB%8B%88%EB%8B%A4.%20%E2%98%BA%EF%B8%8F-%EF%B8%8F" rel="nofollow">학교 프로필</a> 또는 <a href="https://www.notion.so/97d6aaeb94d44966b6494af4c1510521" rel="nofollow">노션 이력서</a>를 방문해주세요.</p>
+
 
 
 <h3 dir="auto"><a id="user-content--technical-skills" class="anchor" aria-hidden="true" href="#-technical-skills"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="32" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠</g-emoji> &nbsp;기술 스택</h3>
@@ -22,10 +27,12 @@
 
 
 
-  <h3 dir="auto"><a id="user-content--portfolio" class="anchor" aria-hidden="true" href="#-portfolio"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="32" height="16" aria-hidden="true"><svg></a><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> &nbsp;포트폴리오</h3>
+  <h3 dir="auto"><a id="user-content--portfolio" class="anchor" aria-hidden="true" href="#-portfolio"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="32" height="16" aria-hidden="true"><svg></a><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> &nbsp;깃헙 분석</h3>
     
   
 
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=jinwoo0427&theme=calm)](https://github.com/jinwoo0427)
+    
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jinwoo0427&amp;show_icons=true&amp;theme=material-palenight&amp;hide_border=true&amp;bg_color=20232a&amp;icon_color=E3E3E3A8&amp;text_color=fff&amp;title_color=918FE0&amp;count_private=true&quot;" width="49.2%">
+</a>
 
-[![myidmm64's github stats](https://github-readme-stats.vercel.app/api?username=jinwoo0427&show_icons=true&theme=dracula)](https://github.com/jinwoo0427)
