@@ -3,14 +3,13 @@
 </div>
 <div align="center">
 
-<p><h1><strong>👋 깨부하는 개발자 유진우입니다</strong></h1></p>
+<p><h1 dir="auto">👋 깨부하는 개발자 유진우입니다</h1></p>
 
-
-<p><h4>⚙️<strong>깨지고 부서져면서</strong> 자신을 성장시킵니다.<br>
-⚙️새로운 환경에  <strong>빠른 적응과</strong>, <strong>실패를 </strong>무서워하지 않습니다.<br>
-⚙️기술을 꾸준히 공부하고 <strong>지식을 공유</strong>하며 <strong>함께 성장</strong>하는 삶을 지향합니다.<br>
+<p><h4>⚙️<strong>깨지고 부서져면서</strong> 자신을 성장시킵니다.<br><br>
+⚙️새로운 환경에  <strong>빠른 적응과</strong>, <strong>실패를 </strong>무서워하지 않습니다.<br><br>
+⚙️기술을 꾸준히 공부하고 <strong>지식을 공유</strong>하며 <strong>함께 성장</strong>하는 삶을 지향합니다.<br><br>
 ⚙️저에 대해 궁금하시다면 <a href="http://ggm.gondr.net/user/profile/42#-%F0%9F%91%8B%EA%B9%A8%EC%A7%80%EA%B3%A0%20%EB%B6%80%EC%84%9C%EC%A7%80%EB%8A%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EC%9C%A0%EC%A7%84%EC%9A%B0%EC%9E%85%EB%8B%88%EB%8B%A4.%20%E2%98%BA%EF%B8%8F-%EF%B8%8F" rel="nofollow">학교 프로필</a> 또는 <a href="https://www.notion.so/97d6aaeb94d44966b6494af4c1510521" rel="nofollow">노션 이력서</a>를 방문해주세요.<h4></p>
-
+<br>
 <h3>🛠기술 스택</h3>
 
 <div align="auto">
@@ -30,8 +29,8 @@
       <img src="https://img.shields.io/badge/GitHub-05122A?style=for-the-badge&logo=GitHub&logoColor=#181717"/>
  
 
-
-  <h3 dir="auto"><a id="user-content--portfolio" class="anchor" aria-hidden="true" href="#-portfolio"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="32" height="16" aria-hidden="true"><svg></a><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji> &nbsp;깃헙 분석</h3>
+<br><br>
+  <h3 dir="auto">💻</g-emoji> &nbsp;깃헙 분석</h3>
      
       
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=jinwoo0427&theme=calm)](https://github.com/jinwoo0427)
