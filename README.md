@@ -1,4 +1,7 @@
-
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=auto&amp;height=170&amp;section=header&amp;text=깨지고%20부서져라!&amp;fontSize=55">	
+</div>
+<div align="center">
 <h2 dir="auto"><a id="user-content--👋  깨지고 부서지는 개발자 유진우입니다. ☺️" class="anchor" aria-hidden="true" href="#-👋깨지고 부서지는 개발자 유진우입니다. ☺️-️"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👍</g-emoji> &nbsp;깨지고 부서지는 개발자 유진우입니다. <g-emoji class="g-emoji" alias="relaxed" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/263a.png">☺️</g-emoji></h2>
 
 <p dir="auto"><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png">⚙️</g-emoji> &nbsp;<strong>깨지고 부서져도 경험이 쌓이는 것</strong>에 관심이 많습니다.<br>
@@ -35,4 +38,4 @@
     
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jinwoo0427&amp;show_icons=true&amp;theme=material-palenight&amp;hide_border=true&amp;bg_color=20232a&amp;icon_color=E3E3E3A8&amp;text_color=fff&amp;title_color=918FE0&amp;count_private=true&quot;" width="49.2%">
 </a>
-
+</
