@@ -29,7 +29,8 @@
       <img src="https://img.shields.io/badge/GitHub-05122A?style=for-the-badge&logo=GitHub&logoColor=#181717"/>
  
     
-    <br><br>
+<br>
+    <br>
 <h2><strong>  📝 Portfolio &amp; GitHub  📝 </strong></h2>
 </h2>
 <a href="https://dirt-cricket-468.notion.site/97d6aaeb94d44966b6494af4c1510521">
@@ -37,9 +38,9 @@
 </a><a href="https://github.com/jinwoo0427">
 <img src="https://cdn.discordapp.com/attachments/1031870281893031999/1085388326237917224/1.png" alt="">
 </a>
-<p><h4>✔️[이미지를 클릭하시면 들어가집니다.]</p>
+<p><h5>👆 이미지를 클릭해주세요.👆</h5></p>
 
-<br><br>
+<br>
   <h2 dir="auto">💻</g-emoji> &nbsp;깃헙 분석</h2>
      
       
