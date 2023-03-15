@@ -28,6 +28,16 @@
       <img src="https://img.shields.io/badge/Git-05122A?style=for-the-badge&logo=Git&logoColor=#F05032"/>
       <img src="https://img.shields.io/badge/GitHub-05122A?style=for-the-badge&logo=GitHub&logoColor=#181717"/>
  
+    
+    <br><br>
+<h2><strong>  📝 Portfolio &amp; GitHub  📝 </strong></h2>
+</h2>
+<a href="https://dirt-cricket-468.notion.site/97d6aaeb94d44966b6494af4c1510521">
+<img src="https://cdn.discordapp.com/attachments/1031870281893031999/1085388322429468802/2.png" alt="">
+</a><a href="https://github.com/jinwoo0427">
+<img src="https://cdn.discordapp.com/attachments/1031870281893031999/1085388326237917224/1.png" alt="">
+</a>
+<p><h4>✔️[이미지를 클릭하시면 들어가집니다.]</p>
 
 <br><br>
   <h2 dir="auto">💻</g-emoji> &nbsp;깃헙 분석</h2>
@@ -40,14 +50,6 @@
   <img width="49.2%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jinwoo0427&amp;show_icons=true&amp;theme=material-palenight&amp;hide_border=true&amp;bg_color=20232a&amp;icon_color=E3E3E3A8&amp;text_color=fff&amp;title_color=918FE0&amp;count_private=true&quot;">
 </a>
 
-<br><br>
-<h2><strong>  📝 Portfolio &amp; GitHub  📝 </strong></h2>
-</h2>
-<a href="https://dirt-cricket-468.notion.site/97d6aaeb94d44966b6494af4c1510521">
-<img src="https://cdn.discordapp.com/attachments/1031870281893031999/1085388322429468802/2.png" alt="">
-</a><a href="https://github.com/jinwoo0427">
-<img src="https://cdn.discordapp.com/attachments/1031870281893031999/1085388326237917224/1.png" alt="">
-</a>
 </div>
 
       
